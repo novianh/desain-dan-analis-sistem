@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T16:04:42.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="v3xAuCRbXwsS7_rgFDJc" version="13.11.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-11T18:03:35.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ii2_dkWicy1ayGwUOUBq" version="13.11.0" type="github" pages="5">
   <diagram id="P1l4AtwmSs6WYeQG2Cq-" name="login">
     <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,9 +513,6 @@
         <mxCell id="Fl_ZPLwIZPVXBwtDfH4m-17" value="proses kirim surat" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="Fl_ZPLwIZPVXBwtDfH4m-11" vertex="1">
           <mxGeometry x="20" y="370" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ohFdkWIX_Qh2vlSsr7LH-0" value="simpan riwayat pembuatan surat" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="Fl_ZPLwIZPVXBwtDfH4m-11" vertex="1">
-          <mxGeometry x="20" y="290" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Fl_ZPLwIZPVXBwtDfH4m-27" value="petugas" style="swimlane;html=1;startSize=20;" parent="Fl_ZPLwIZPVXBwtDfH4m-0" vertex="1">
           <mxGeometry x="490" y="20" width="250" height="510" as="geometry" />
         </mxCell>
@@ -568,12 +565,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="697.5" y="356" as="sourcePoint" />
             <mxPoint x="792.5" y="406" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ohFdkWIX_Qh2vlSsr7LH-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="jT3dMVqkNxHMf5a-nP5--1" source="kGYzDuuBd6qXNPWibgTB-4" target="ohFdkWIX_Qh2vlSsr7LH-0" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1100" y="240" as="sourcePoint" />
-            <mxPoint x="845" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
