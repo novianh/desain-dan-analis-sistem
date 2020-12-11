@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T10:49:35.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-MkMTdoSEFnOU_iWx2aV" version="13.11.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-11T10:50:56.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BTzPzi2SfggPzoIqvG5c" version="13.11.0" type="github" pages="4">
   <diagram id="uONjA8T7r63Trohrtwdc" name="state">
     <mxGraphModel dx="2557" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -616,14 +616,14 @@
         <mxCell id="8wD9z60q-ySbiW7qzxDG-10" value="pelaporan" style="ellipse;" vertex="1" parent="8wD9z60q-ySbiW7qzxDG-1">
           <mxGeometry x="357.5" y="360" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W4OaGru7GpHbzuVPhQcb-0" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8wD9z60q-ySbiW7qzxDG-1" source="8wD9z60q-ySbiW7qzxDG-6" target="W4OaGru7GpHbzuVPhQcb-1">
+        <mxCell id="W4OaGru7GpHbzuVPhQcb-0" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8wD9z60q-ySbiW7qzxDG-1" source="8wD9z60q-ySbiW7qzxDG-6" target="W4OaGru7GpHbzuVPhQcb-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="350" y="-80" as="sourcePoint" />
             <mxPoint x="510" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W4OaGru7GpHbzuVPhQcb-1" value="verifikasi user" style="ellipse;" vertex="1" parent="8wD9z60q-ySbiW7qzxDG-1">
-          <mxGeometry x="470" y="-60" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="-50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="42hqGIZOxEhpMBkipi-G-8" value="membuat surat pengantar" style="ellipse;whiteSpace=wrap;" vertex="1" parent="8wD9z60q-ySbiW7qzxDG-1">
           <mxGeometry x="450" y="140" width="97.5" height="30" as="geometry" />
