@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T07:49:19.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hRYC91gp64Q4es2bhok_" version="13.11.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-11T07:50:57.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="x7sevrXxSciHhlUSu6sH" version="13.11.0" type="github" pages="3">
   <diagram id="uONjA8T7r63Trohrtwdc" name="state">
     <mxGraphModel dx="2557" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
         <mxCell id="7DvLWVNiM8SuWVVVDDWg-0" />
         <mxCell id="7DvLWVNiM8SuWVVVDDWg-1" parent="7DvLWVNiM8SuWVVVDDWg-0" />
         <mxCell id="7DvLWVNiM8SuWVVVDDWg-2" value="state diagram sistem surat menyurat desa" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=20;" vertex="1" parent="7DvLWVNiM8SuWVVVDDWg-1">
-          <mxGeometry x="-210" y="60" width="560" height="1950" as="geometry" />
+          <mxGeometry x="-210" y="60" width="510" height="1950" as="geometry" />
         </mxCell>
         <mxCell id="7DvLWVNiM8SuWVVVDDWg-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="7DvLWVNiM8SuWVVVDDWg-1">
           <mxGeometry x="-90" y="120" width="30" height="30" as="geometry" />
@@ -508,8 +508,8 @@
           <mxGeometry x="-0.3077" relative="1" as="geometry">
             <mxPoint x="195" y="1716" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="1865" />
-              <mxPoint x="270" y="1640" />
+              <mxPoint x="230" y="1865" />
+              <mxPoint x="230" y="1640" />
             </Array>
             <mxPoint x="150" y="1865" as="sourcePoint" />
             <mxPoint as="offset" />
