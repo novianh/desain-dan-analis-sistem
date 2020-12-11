@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T11:55:26.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ySpX5PVbJEjJFRAnJe0_" version="13.11.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-11T15:40:45.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Rm4vxDhXo-Da8HKNQPUl" version="13.11.0" type="github" pages="5">
   <diagram id="P1l4AtwmSs6WYeQG2Cq-" name="login">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -485,7 +485,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qkGxKwm3ZwQQkEtEoSok" name="pembuatan">
-    <mxGraphModel dx="1038" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jT3dMVqkNxHMf5a-nP5--0" />
         <mxCell id="jT3dMVqkNxHMf5a-nP5--1" parent="jT3dMVqkNxHMf5a-nP5--0" />
@@ -513,7 +513,7 @@
         <mxCell id="Fl_ZPLwIZPVXBwtDfH4m-17" value="proses kirim surat" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="Fl_ZPLwIZPVXBwtDfH4m-11" vertex="1">
           <mxGeometry x="20" y="370" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ohFdkWIX_Qh2vlSsr7LH-0" value="simpan riwayat pengeluaran surat" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="Fl_ZPLwIZPVXBwtDfH4m-11" vertex="1">
+        <mxCell id="ohFdkWIX_Qh2vlSsr7LH-0" value="simpan riwayat pembuatan surat" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="Fl_ZPLwIZPVXBwtDfH4m-11" vertex="1">
           <mxGeometry x="20" y="290" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fl_ZPLwIZPVXBwtDfH4m-27" value="petugas" style="swimlane;html=1;startSize=20;" parent="Fl_ZPLwIZPVXBwtDfH4m-0" vertex="1">
@@ -561,7 +561,7 @@
         <mxCell id="kGYzDuuBd6qXNPWibgTB-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="jT3dMVqkNxHMf5a-nP5--1" source="kGYzDuuBd6qXNPWibgTB-0" target="kGYzDuuBd6qXNPWibgTB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kGYzDuuBd6qXNPWibgTB-4" value="konfirmasi dan validasi surat" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="jT3dMVqkNxHMf5a-nP5--1" vertex="1">
+        <mxCell id="kGYzDuuBd6qXNPWibgTB-4" value="validasi surat" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="jT3dMVqkNxHMf5a-nP5--1" vertex="1">
           <mxGeometry x="1012.5" y="190" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fl_ZPLwIZPVXBwtDfH4m-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="jT3dMVqkNxHMf5a-nP5--1" source="kGYzDuuBd6qXNPWibgTB-4" target="Fl_ZPLwIZPVXBwtDfH4m-28" edge="1">
