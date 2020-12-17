@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T05:17:58.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="b2lqH4GoC-H7xMLWTwTZ" version="14.0.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-17T12:13:18.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="E2O_cb9K79hdsX7gIxM3" version="14.0.4" type="github" pages="7">
   <diagram id="uONjA8T7r63Trohrtwdc" name="state">
-    <mxGraphModel dx="1865" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qTHAe41oF69580907dVK-1" value="state diagram sistem surat menyurat desa" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=20;" parent="1" vertex="1">
+        <mxCell id="qTHAe41oF69580907dVK-1" value="state diagram sistem pelayanan surat menyurat desa" style="shape=umlFrame;whiteSpace=wrap;html=1;width=310;height=20;" parent="1" vertex="1">
           <mxGeometry x="-90" y="190" width="640" height="2090" as="geometry" />
         </mxCell>
         <mxCell id="qTHAe41oF69580907dVK-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
