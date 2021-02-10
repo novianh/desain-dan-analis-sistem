@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T07:18:37.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="UyB5rgRw0kOLGye38g8i" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T07:25:28.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="fF0rUPNNAIyzyozEhDjf" version="14.3.0" type="github">
   <diagram id="2ewDYVxV7KnKbin4Yj5t" name="Page-1">
-    <mxGraphModel dx="2076" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XxREvViGMXxPw2Jvslt4-2" value="makhluk&amp;nbsp; hidup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XxREvViGMXxPw2Jvslt4-3" value="monera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XxREvViGMXxPw2Jvslt4-3" value="kelas monera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XxREvViGMXxPw2Jvslt4-4" value="protista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XxREvViGMXxPw2Jvslt4-4" value="kelas protista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XxREvViGMXxPw2Jvslt4-5" value="fungi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XxREvViGMXxPw2Jvslt4-5" value="kelas fungi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XxREvViGMXxPw2Jvslt4-6" value="plantae" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XxREvViGMXxPw2Jvslt4-6" value="kelas plantae" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XxREvViGMXxPw2Jvslt4-7" value="mamamila" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XxREvViGMXxPw2Jvslt4-7" value="kelas mamamila" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XxREvViGMXxPw2Jvslt4-9" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XxREvViGMXxPw2Jvslt4-2" target="XxREvViGMXxPw2Jvslt4-3">
